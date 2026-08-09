@@ -1,8 +1,8 @@
 # Jinwoo Oh
 
-CS at Northwestern, minor in Machine Learning and Data Science. AI Software Engineer Intern at AbbVie. I work across the stack. Recent work spans a clinical data profiler that covered 432B rows across 62 tables in about 10 hours, serverless backends on AWS, and LLM evaluation infrastructure.
+CS at Northwestern, minor in Machine Learning and Data Science. AI Software Engineer Intern at AbbVie.
 
-**Selected work**
+## Selected work
 
 - [EvalGate](https://github.com/starJin2003/EvalGate). Regression gate for LLM apps. Runs eval suites daily, promotes failing production traces into the suite, and blocks PR merges when scores drop.
 - [coAuthor](https://github.com/davidyim03/coAuthor). Real-time collaborative storytelling app on AWS. Nine Python Lambdas behind an API Gateway WebSocket, DynamoDB state, and OpenAI image generation to S3.
@@ -10,6 +10,17 @@ CS at Northwestern, minor in Machine Learning and Data Science. AI Software Engi
 - [PharmAgent](https://github.com/starJin2003/pharmagent). Agentic RAG over 500 FDA drug labels with hybrid FAISS and BM25 retrieval. Recall@5 0.95, citation accuracy 0.96. [Demo on Hugging Face Spaces](https://huggingface.co/spaces/starJin2003/pharmagent).
 - [codenames-LLM-study](https://github.com/starJin2003/codenames-LLM-study). Do LLMs invent covert communication to cheat in Codenames under pressure. A study of rule following and honesty across free tier LLMs.
 
-**Stack** Python · TypeScript · SQL · React · Next.js · Flask · PostgreSQL · AWS Lambda · DynamoDB · Supabase · LangGraph · FAISS · BM25 · XGBoost
+## Stack
 
-[LinkedIn](https://www.linkedin.com/in/jin0608)
+[![Stack](https://skillicons.dev/icons?i=py,js,ts,java,cpp,c,react,nextjs,nodejs,express,flask,fastapi,pytorch,sklearn,tailwind,postgres,redis,supabase,aws,dynamodb,docker,kubernetes,githubactions,git,linux,vercel&perline=13)](https://github.com/starJin2003)
+
+LangGraph · LangChain · FAISS · BM25 · XGBoost · SHAP · Hugging Face · pandas · Cloudera Impala · WebSocket · ETL
+
+## Stats
+
+![Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=starJin2003&show_icons=true&theme=github_dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starJin2003&layout=compact&theme=github_dark&hide=jupyter%20notebook,html,css)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jin0608) · [ohjinwoo0608@gmail.com](mailto:ohjinwoo0608@gmail.com)
