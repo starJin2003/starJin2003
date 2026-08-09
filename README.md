@@ -16,11 +16,7 @@ CS at Northwestern, minor in Machine Learning and Data Science. AI Software Engi
 
 LangGraph · LangChain · FAISS · BM25 · XGBoost · SHAP · Hugging Face · pandas · Cloudera Impala · WebSocket · ETL
 
-## Stats
-
-![Jinwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=starJin2003&show_icons=true&theme=github_dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starJin2003&layout=compact&theme=github_dark&hide=jupyter%20notebook,html,css)
-
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jin0608) · [ohjinwoo0608@gmail.com](mailto:ohjinwoo0608@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jin0608)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ohjinwoo0608@gmail.com)
