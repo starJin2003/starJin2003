@@ -13,7 +13,7 @@ Computer Science student at Northwestern University graduating in 2027 with a mi
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,react,nextjs,nodejs,express,fastapi,flask,tailwind,postgres,redis,kafka,supabase,firebase,dynamodb,aws,cloudflare,docker,kubernetes,terraform,githubactions,linux,git,vercel,pytorch,tensorflow,sklearn&perline=16)](https://github.com/starJin2003)
+[![Stack](https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,html,css,bash,react,nextjs,vite,tailwind,nodejs,express,fastapi,flask,postgres,mysql,redis,kafka,supabase,firebase,dynamodb,aws,cloudflare,docker,kubernetes,terraform,prometheus,grafana,githubactions,linux,git,vercel,pytorch,tensorflow,sklearn&perline=13)](https://github.com/starJin2003)
 
 Apache Spark, Apache Airflow, Databricks, Delta Lake, dbt, LangGraph, LangChain, FAISS, BM25, XGBoost, SHAP, Hugging Face, pandas, Cloudera Impala, WebSocket, ETL
 
